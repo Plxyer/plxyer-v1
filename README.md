@@ -1,12 +1,17 @@
-<p align="center">
+
+
+<p align="left">
   <a href="https://plxyer.com">
     <img alt="PLXYER" src="https://plxyer.s3.ap-southeast-1.amazonaws.com/plxyer-logo-01.png" width="250" />
   </a>
 </p>
 
-# PLXYER
-**Welcome to PLXYER!**
+**Welcome to PLXYER**
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/v/standard.svg" alt="npm version"></a>
+  <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+</p>
 
 ## Introduction
 PLXYER (pronounced Player) is building the leading distribution platform for play and earn games, bolstered by its in-house titles, turnkey game creation tools, purposebuilt social network and foundation for robust game economies.
@@ -39,6 +44,7 @@ IDE: Any one you like
 
 
 ### Code style guid
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)  
 Use JavaScript Style Guide [@Github](https://github.com/standard/standard).
 > recommend use IDE plugin lint code.
 > * [VisualStudio Code Plugin](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard)
