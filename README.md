@@ -1,14 +1,17 @@
-
-
 <p align="left">
   <a href="https://plxyer.com">
-    <img alt="PLXYER" src="https://plxyer.s3.ap-southeast-1.amazonaws.com/plxyer-logo-01.png" width="250" />
+    <img alt="PLXYER" src="https://plxyer.s3.ap-southeast-1.amazonaws.com/plxyer-title.jpg" />
   </a>
 </p>
 
+
+# PLXYER  
 **Welcome to PLXYER**
 
 <p align="center">
+  <a href="https://plxyer.com">
+    <img alt="PLXYER" src="https://plxyer.s3.ap-southeast-1.amazonaws.com/plxyer-logo-01.png" width="250" />
+  </a>
   <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/v/standard.svg" alt="npm version"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
 </p>
@@ -49,3 +52,13 @@ Use JavaScript Style Guide [@Github](https://github.com/standard/standard).
 > recommend use IDE plugin lint code.
 > * [VisualStudio Code Plugin](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard)
 > * [VisualStudio Code Snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)
+
+
+## Installation
+Clone the AvalancheGo repository:  
+```sh
+git clone https://github.com/Plxyer/plxyer-v1.git
+cd plxyer-v1
+```
+This will clone and checkout to master branch.
+
